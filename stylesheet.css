@@ -1,0 +1,12 @@
+.header{
+	font-family: 'Bonbon', cursive;
+}
+
+.body{
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+body{
+	background-color: yellow;
+	color: purple;
+}
